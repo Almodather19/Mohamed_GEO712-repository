@@ -1,8 +1,8 @@
 ---
 title: "Mohamed_GEO712-Repository"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 date: "2023-10-05"
 ---
 <style>
