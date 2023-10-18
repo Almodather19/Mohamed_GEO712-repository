@@ -1,0 +1,9 @@
+Mohamed_GEO712-Repository
+================
+2023-10-18
+
+# Session_05-Activity
+
+> The data that I am going to collect is drone related as the aim of my
+> research project will be to have an accurate estimate of the energy
+> consumption of drones that can be used in Parcel delivery.
