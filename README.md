@@ -2,10 +2,7 @@ Mohamed_GEO712-Repository
 ================
 2023-10-05
 
-<style>
-body {
-text-align: justify}
-</style>
+<style>body {text-align: justify}</style>
 
 # Session_04-Activity
 
